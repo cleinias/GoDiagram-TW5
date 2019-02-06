@@ -1,9 +1,9 @@
 {
-	"title": "$:/plugins/cleinias/GoDiagram-TW5",
-	"description": "A TW5 widget allowing the visualization of SVG diagrams of [Go|Baduk|Weiqi] positions from their ASCII representations",
+	"title": "$:/plugins/stefano/TW5-Godiagram",
+	"description": "TW5-Godiagram converts ASCII diagrams of [Go|Baduk|Weiqi] positions into embedded SVG images",
 	"author": "Stefano Franchi",
 	"version": "0.0.1",
 	"core-version": ">=5.0.8",
-	"source": "https://github.com/cleinias/GoDiagram-TW5.git",
+	"source": "https://github.com/cleinias/TW5-GoDiagram",
 	"plugin-type": "plugin"
 }
