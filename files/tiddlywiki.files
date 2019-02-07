@@ -1,0 +1,14 @@
+{
+	"tiddlers": [
+		{
+			"file": "GoDiagramJS/sltxt2svg.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/cleinias/Godiagram/sltxt2svg.js",
+				"module-type": "library"
+			},
+			"prefix": "(function(document) {\n",
+			"suffix": "\n})($tw.node ? $tw.fakeDocument : window.document)\n"
+}
+	]
+}

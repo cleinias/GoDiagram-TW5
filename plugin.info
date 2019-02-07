@@ -1,5 +1,5 @@
 {
-	"title": "$:/plugins/stefano/TW5-Godiagram",
+	"title": "$:/plugins/cleinias/TW5-Godiagram",
 	"description": "TW5-Godiagram converts ASCII diagrams of [Go|Baduk|Weiqi] positions into embedded SVG images",
 	"author": "Stefano Franchi",
 	"version": "0.0.1",
